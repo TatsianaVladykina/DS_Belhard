@@ -1,1 +1,1 @@
-Data Science для начинающих.
+Data Science для начинающих
